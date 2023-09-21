@@ -11,4 +11,5 @@ DI 장점
 - 테스트하기 좋은 코드가 됨
 
 
-![Uploading page5image11933584.png…]()
+![page5image11933584](https://github.com/park-soo/di-practice/assets/127409329/cbbf56b1-61a0-4f5d-9372-2a217a09b194)
+
